@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #2e3141;
+		background-color: #413b2e;
 		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
 		background-size: auto, cover;
 		background-attachment: fixed, fixed;
@@ -2389,7 +2389,10 @@ input, select, textarea {
 		display: inline-block;
 		position: relative;
 	}
-
+		img.sweet-eats {
+			width: 100px;
+			height: 200px;
+		}
 		.image img {
 			border-radius: 5px;
 			display: block;
@@ -2973,7 +2976,7 @@ input, select, textarea {
 
 		.features article {
 			padding: 1.75em 1.75em 0.1em 1.75em ;
-			background-color: #353849;
+			background-color: #d17f14;
 			border-radius: 5px;
 			margin: 1.5em 3em 1.5em 0;
 			width: calc(50% - 1.5em);
